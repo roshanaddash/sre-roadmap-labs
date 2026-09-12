@@ -27,7 +27,7 @@ Approximately 2 hours per day, or 14–15 hours per week.
 
 | Phase | Status |
 |---|---|
-| Day 0 - Environment Setup | In Progress |
+| Day 0 - Environment Setup | Complete |
 | Month 1 - SRE Fundamentals, Linux, Git, Shell | Not Started |
 | Month 2 - Networking, Python, Monitoring | Not Started |
 | Month 3 - Incident Response, Docker, Cloud Fundamentals | Not Started |
@@ -54,7 +54,7 @@ Approximately 2 hours per day, or 14–15 hours per week.
 | Initial Linux script created | Complete |
 | Initial Linux script committed and pushed | Complete |
 | `BASELINE.md` created | Complete |
-| `TRACKER.md` created | In Progress |
+| `TRACKER.md` created | Complete |
 | `TROUBLESHOOTING_JOURNAL.md` created | Not Started |
 
 ## Day 0 Deliverables
@@ -62,7 +62,7 @@ Approximately 2 hours per day, or 14–15 hours per week.
 | Deliverable | Status |
 |---|---|
 | Baseline document | Complete |
-| Progress tracker | In Progress |
+| Progress tracker | Complete |
 | Troubleshooting journal | Not Started |
 
 ---
@@ -73,7 +73,7 @@ Approximately 2 hours per day, or 14–15 hours per week.
 
 | # | Topic | Status |
 |---|---|---|
-| 1 | What is production? What is a service? What is a dependency? | Not Started |
+| 1 | What is production? What is a service? What is a dependency? | Complete |
 | 2 | SRE vs DevOps vs Cloud Engineering vs Production Support | Not Started |
 | 3 | Reliability, availability, durability, scalability, performance, resilience, fault tolerance | Not Started |
 | 4 | SLI, SLO, SLA, error budget, burn rate, toil, service ownership | Not Started |
@@ -113,11 +113,12 @@ Status: Not Started
 | 2026-09-12 | Environment setup | GitHub Codespace and core tools verified |
 | 2026-09-12 | `system_info.sh` | Created, executed, committed, and pushed |
 | 2026-09-12 | `BASELINE.md` | Created, committed, and pushed |
+| 2026-09-12 | Week 1 Topic 1 | Understood production, services, dependencies, and partial failure |
 
 ---
 
 # Current Position
 
-Current phase: Day 0 completion
+Current phase: Week 1 - SRE Foundations
 
-Next action: Create `TROUBLESHOOTING_JOURNAL.md`, then begin Week 1, Topic 1.
+Next action: Study Week 1, Topic 2.
