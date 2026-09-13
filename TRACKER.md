@@ -114,11 +114,15 @@ Status: Not Started
 | 2026-09-12 | `system_info.sh` | Created, executed, committed, and pushed |
 | 2026-09-12 | `BASELINE.md` | Created, committed, and pushed |
 | 2026-09-12 | Week 1 Topic 1 | Understood production, services, dependencies, and partial failure |
-
+| 2026-09-12 | Week 1 Topic 2 | Understood SRE, DevOps, Cloud Engineering, and Production Support responsibilities |
+| 2026-09-13 | Week 1 Topic 3 | Understood reliability, availability, durability, scalability, performance, resilience, and fault tolerance |
 ---
 
 # Current Position
 
 Current phase: Week 1 - SRE Foundations
 
-Next action: Study Week 1, Topic 2.
+Completed through: Week 1, Topic 3
+
+Next action: Study Week 1, Topic 4 - SLI, SLO, SLA, Error Budget, Burn Rate, Toil, and Service Ownership.
+
